@@ -36,23 +36,6 @@
     background: white;
 }
 
-/*
-    .sync-button {
-        display: flex;
-        flex-flow: row nowrap;
-        justify-content: space-around;
-        align-items: center;
-        height: 45px;
-        color: #34495E;
-    }
-
-    .sync-icon {
-        width: 30px;
-        height: 30px;
-        margin: 7.5px;
-    }
-*/
-
 .bottom-button {
     display: flex;
     flex-flow: row nowrap;
